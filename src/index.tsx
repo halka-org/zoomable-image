@@ -13,7 +13,9 @@ import {
   AnimatePresence,
   MotionProps,
 } from 'framer-motion';
-import { useMountedState, useKey, useWindowSize } from 'react-use';
+import useMountedState from 'react-use/lib/useMountedState';
+import useKey from 'react-use/lib/useKey';
+import useWindowSize from 'react-use/lib/useWindowSize';
 
 interface Dimensions {
   width: number;

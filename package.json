@@ -1,5 +1,6 @@
 {
   "version": "0.1.0",
+  "sideEffects": false,
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
