@@ -2,7 +2,12 @@
 
 ![Bundle Size](https://badgen.net/bundlephobia/minzip/@halka/zoomable-image) ![npm version](https://badgen.net/npm/v/@halka/zoomable-image) ![types](https://badgen.net/npm/types/@halka/zoomable-image) ![license](https://badgen.net/github/license/halka-org/zoomable-image)
 
-> NOTE: This was more or less an experiment and can have edge cases and bugs. Use with CAUTION! If you find any issues please raise them. Thanks!
+A react component to have zoomable images like medium built with framer-motion.
+
+> !! CAUTINARY NOTE: This was more or less an experiment and ~~can~~ will have edge cases and bugs. Also the bundle size is pretty obnoxiously large due to dependencies like framer-motion. Use with CAUTION! If you find any issues please raise them. Thanks!
+
+> Good alternative - [`medium-zoom`](https://github.com/francoischalifour/medium-zoom)
+> We have a light but powerful React wrapper on top of the amazing `medium-zoom` library - [`@halka/react-medium-zoom`](https://github.com/halka-org/react-medium-zoom)
 
 ## Installation
 

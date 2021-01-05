@@ -86,7 +86,7 @@
     "framer-motion": "^3.1.1",
     "react-use": "^15.3.4"
   },
-  "description": "![Bundle Size](https://badgen.net/bundlephobia/minzip/@halka/zoomable-image) ![npm version](https://badgen.net/npm/v/@halka/zoomable-image) ![types](https://badgen.net/npm/types/@halka/zoomable-image) ![license](https://badgen.net/github/license/halka-org/zoomable-image)",
+  "description": "A react component to have zoomable images like medium built with framer-motion.",
   "bugs": {
     "url": "https://github.com/halka-org/zoomable-image/issues"
   },
